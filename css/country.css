@@ -1,7 +1,4 @@
-span{
-   margin-top: 20px;
-   font-size: 35px;
-}
+
 .glyphicon{
 	color: #464646;
 }
@@ -18,14 +15,34 @@ a{
     font-weight: bold;
     font-size: 18px;
 }
-.btn .caret{
-	margin-top: 0;
-	margin-right: 5px;
-}
+
 .btn{
-	padding-right: 40%;
+	padding-right: 20%;
 }
-.peru{
-	display: inline-block;
-	padding-right: 10%;
+.glyphicon {
+    top:25px;
+}
+.peru {
+    display: inline-block;
+    padding-right: 10px;
+}
+.input-group-btn{
+    width: 50px;
+}
+.btn .caret {
+    margin-left: -8px;
+    
+}
+
+.input-group {
+    width: 100%;
+}
+.code {
+    position: absolute;
+    z-index:40;
+    top:22%;
+    left:10%;
+}
+#number {
+    padding-left:8%; 
 }
