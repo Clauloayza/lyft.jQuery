@@ -41,8 +41,8 @@ a{
     position: absolute;
     z-index:40;
     top:22%;
-    left:10%;
+    transform: translateX(15px);
 }
 #number {
-    padding-left:8%; 
+    padding-left: 45px;
 }
