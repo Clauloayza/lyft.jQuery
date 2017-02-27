@@ -1,0 +1,31 @@
+span{
+   margin-top: 20px;
+   font-size: 35px;
+}
+.glyphicon{
+	color: #464646;
+}
+.next{
+    width: 100%;
+    padding: 2%;
+    color: #fff;
+    background: #ff00bf;
+    margin-top: 10%;
+	font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+.btn .caret{
+	margin-top: 0;
+	margin-right: 5px;
+}
+.btn{
+	padding-right: 40%;
+}
+.peru{
+	display: inline-block;
+	padding-right: 10%;
+}
